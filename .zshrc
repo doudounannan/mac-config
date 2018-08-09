@@ -1,4 +1,4 @@
-lias server="http-server ./"
+alias server="http-server ./"
 alias ip="ifconfig en0"
 alias vizsh="vi ~/.zshrc"
 alias workzsh="source ~/.zshrc"
